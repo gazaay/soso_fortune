@@ -1,0 +1,150 @@
+{
+    "base_date_element": {
+        "start_year" : 2022,
+        "start_month" : 1,
+        "first_day_element" : "5",
+        "first_day_element_cn" : "寅"
+    } , 
+    "life_element" : {
+        "cold" : {
+            "start_month" : 8,
+            "end_month" :1,
+            "start_date" :8,
+            "end_date":1,
+            "life_element" : "coldest",
+            "favour_element" : "fire",
+            "enhance_element" : "wood",
+            "hate_element" : "water"
+        },
+        "cold_2" : {
+            "start_month" : 1,
+            "end_month" :3,
+            "start_date" :1,
+            "end_date":6,
+            "life_element" : "coldest",
+            "favour_element" : "fire",
+            "enhance_element" : "wood",
+            "hate_element" : "water"
+        },
+        "hot" : {
+            "start_month" : 5,
+            "end_month" :8,
+            "start_date" :6,
+            "end_date":8,
+            "life_element" : "hotty",
+            "favour_element" : "water",
+            "enhance_element" : "gold",
+            "hate_element" : "earth"
+        }, 
+        "balance" : {
+            "start_month" : 3,
+            "end_month" :5,
+            "start_date" :6,
+            "end_date":6,
+            "life_element" : "balanced",
+            "favour_element" : "water",
+            "enhance_element" : "gold",
+            "favour_secondary_element" : "wet earth",
+            "hate_element" : "earth"
+        }
+
+    }, 
+    "time_element": [
+        
+        {
+            "index" : 1,
+            "chinese": "寅",
+            "time_start": 3,
+            "time_end": 5,
+            "main_element": "wood",
+            "secondard_element": "fire"
+        },
+        {
+            "index" : 2,
+            "chinese": "卯",
+            "time_start": 5,
+            "time_end": 7,
+            "main_element": "wood",
+            "secondard_element": "none"
+        },
+         {
+            "index" : 3,
+            "chinese": "辰",
+            "time_start": 7,
+            "time_end": 9,
+            "main_element": "earth",
+            "secondard_element": "water"
+        },
+       {
+            "index" : 4,
+            "chinese": "巳",
+            "time_start": 9,
+            "time_end": 11,
+            "main_element": "fire",
+            "secondard_element": "none"
+        },
+         {
+            "index" :5,
+            "chinese": "午",
+            "time_start": 11,
+            "time_end": 13,
+            "main_element": "fire",
+            "secondard_element": "none"
+        },
+        {
+            "index" : 6,
+            "chinese": "未",
+            "time_start": 13,
+            "time_end": 15,
+            "main_element": "earth",
+            "secondard_element": "fire"
+        },
+        {
+            "index" : 7,
+            "chinese": "申",
+            "time_start": 15,
+            "time_end": 17,
+            "main_element": "gold",
+            "secondard_element": "water"
+        },
+         {
+            "index" : 8,
+            "chinese": "酉",
+            "time_start": 17,
+            "time_end": 19,
+            "main_element": "gold",
+            "secondard_element": "none"
+        },
+        {
+            "index" : 9,
+            "chinese": "戌",
+            "time_start": 19,
+            "time_end": 21,
+            "main_element": "earth",
+            "secondard_element": "fire"
+        },
+         {
+            "index" : 10,
+            "chinese": "亥",
+            "time_start": 21,
+            "time_end": 23,
+            "main_element": "water",
+            "secondard_element": "none"
+        } , {
+            "index" : 11,
+            "chinese": "子",
+            "time_start": 23,
+            "time_end": 1,
+            "main_element": "water",
+            "secondard_element": "none"
+        },
+        {
+            "index" : 12,
+            "chinese": "丑",
+            "time_start": 1,
+            "time_end": 3,
+            "main_element": "earth",
+            "secondard_element": "water"
+        }
+    ]
+}
